@@ -1,0 +1,13 @@
+# После первой установки зафиксировать версии: pip freeze > requirements.txt
+pytest
+pytest-playwright
+pytest-xdist
+pytest-html
+playwright
+selenium
+behave
+allure-pytest
+allure-behave
+opencv-python
+python-dotenv
+flake8

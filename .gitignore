@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+CLAUDE.local.md
+allure-results/
+allure-report/
+reports/
+test-results/
+*.har
+*.zip
+.idea/
+.vscode/
